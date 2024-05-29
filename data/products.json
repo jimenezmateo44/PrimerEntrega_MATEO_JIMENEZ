@@ -1,0 +1,13 @@
+[
+	{
+		"title": "producto 1",
+		"description": "descripcion",
+		"code": "1231",
+		"price": 1231,
+		"status": true,
+		"stock": 10,
+		"category": "campera",
+		"thumbnails": [],
+		"id": 1
+	}
+]
